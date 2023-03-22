@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrederikVA
 - 👀 I’m a production technologiest 
 - 🌱 Currently studying at DTU as a software engineer
--  Java, css, javascript, HTML, MySQL..
+-  Java, CSS, JavaScript, HTML, MySQL..
 - 📫 Reach me on mail -> Fredasband@gmail.com
 
 <!---
