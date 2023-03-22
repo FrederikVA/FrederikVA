@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FrederikVA
 - 👀 I’m a production technologiest 
-- 🌱 I’m currently learning JavaScript!
+- 🌱 Currently studying at DTU as a software engineer
+-  Java, css, javascript, HTML, MySQL..
 - 📫 Reach me on mail -> Fredasband@gmail.com
 
 <!---
