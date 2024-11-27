@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FrederikVA
 - 👀 I’m a production technologiest 
 - 🌱 Currently studying at DTU as a software engineer
--  Java, CSS, JavaScript, HTML, MySQL..
-- 📫 Reach me on mail -> Fredasband@gmail.com
+-  Had my hands on: Java, Kotlin, C, JavaScript, Python, MySQL..
+
 
 <!---
 FrederikVA/FrederikVA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
