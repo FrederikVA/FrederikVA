@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FrederikVA
-- 👀 I’m a production technologiest 
+- 👀 I’m a production Technologiest 
 - 🌱 Currently studying at DTU as a software engineer
 -  Had my hands on: Java, Kotlin, C, JavaScript, Python, MySQL..
+-  Reach me at fredasband@gmail.com
 
 
 <!---
