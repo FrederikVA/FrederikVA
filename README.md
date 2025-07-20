@@ -25,6 +25,7 @@ A web-based calculator for game scores and mini-games.
 
 
 ### **RoutineAnchor** *(active – [routineanchor.com](https://routineanchor.com))*
+(*Server only active while I test..*)
 A backend-heavy platform for habit anchoring and personal routines.
 - Focus: server logic, API structure, and platform stability.
 
@@ -32,5 +33,8 @@ A backend-heavy platform for habit anchoring and personal routines.
 A classified vehicle forum built with React + MariaDB.
 - Focus: UX flow and data modeling.
 
-### **BarJoint**
+### **BarQueue**
 Early exploration of UI design using Figma.
+
+![FigmaOverview](./screenshots/BarQueueLanding.png)
+![FigmaOverview](./screenshots/FigmaBarQueue.png)
