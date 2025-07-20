@@ -44,14 +44,15 @@ An early UI/UX exploration for managing bar orders efficiently.
 - Designed using Figma
 - Experimented with layout hierarchies, transitions, and accessibility
 
-![BarQueue Landing](./screenshots/BarQueueLanding.png)  
 ![BarQueue UI Flow](./screenshots/FigmaBarQueue.png)
+
+![BarQueue Landing](./screenshots/BarQueueLanding.png)  
 
 ---
 
-## 🧪 To Do
+
 <!--
-TODO:
+## 🧪 To Do
 - Add links to GitHub repos for each project
 - Possibly break out project folders
 - Optimize GIF sizes for mobile
