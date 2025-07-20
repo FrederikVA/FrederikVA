@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 A web-based calculator for game scores and mini-games.
 - Focus: complex frontend state handling in React.
 
-Minigame snippets: 
+
+- Minigame snippets: 
 ![Minigame1](./screenshots/minigame1.gif)
 
 ![Minigame2](./screenshots/minigame2.gif)
