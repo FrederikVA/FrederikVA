@@ -15,7 +15,13 @@ You can click the Preview link to take a look at your changes.
 ### **BalatroLator** *(inactive)*
 A web-based calculator for game scores and mini-games.
 - Focus: complex frontend state handling in React.
-- [▶ Watch demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25jbDA2a2dmZWY2cWVvMjZ6d2ZycTRmbmZ5NTM5eXd6eWVodTM4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RtrofqLVeeEJXtrDGx/giphy.gif)
+
+Minigame snippets: 
+![Minigame1](./screenshots/minigame1.gif)
+
+![Minigame2](./screenshots/minigame2.gif)
+
+
 
 ### **RoutineAnchor** *(active – [routineanchor.com](https://routineanchor.com))*
 A backend-heavy platform for habit anchoring and personal routines.
