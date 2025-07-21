@@ -15,7 +15,6 @@
 A web-based calculator and minigame platform for the card game *Balatro*.
 - Focus: complex front-end state logic, score calculations, and interaction flows (React, JavaScript).
 - Features: mini-games, real-time result feedback, smooth state transitions.
-![BarQueue UI Flow](./screenshots/FigmaBarQueue.png)
 
 I have copied the design and layout of the actual game. It was the flow and order of calculations which was my inspiration for this project. 
 ![Calculator Layout](./screenshots/Calculator.png)
@@ -30,12 +29,15 @@ Consumables (Multiplier for special hands played).
 Testing became a crusial part of the project. In the end, im happy to say that the project was fully complete. 
 Short demonstrations: 
 Adding jokers.
+---
 ![Adding Jokers](./screenshots/AddingJokers.gif)  
 
 Playing cards. My own design, but inspired by the game. 
+---
 ![Card Design](./screenshots/CardDesign.png)  
 
 Reordering and playing hand. 'Scoring cards' elevate as a visual indicator.
+---
 ![Playing Hand](./screenshots/PlayingHand.gif)  
 
 
