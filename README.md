@@ -1,12 +1,11 @@
 # 👋 Hi, I’m @FrederikVA
 
-- 🎓 Currently studying Software Engineering at DTU (B.Eng.)
-- 🛠 Background in Production Technology (KEA)
+- 🎓 Currently studying Software Engineering at DTU (Technical University of Denmarks)
+- 🛠 Background in Production Technology (KEA - Business Academy of Copenhagen)
 - 💡 Passionate about solving real-world problems through code and design
 - 🧠 Hands-on with: Java, Kotlin, C, JavaScript (TypeScript, React), Python, SQL (MySQL/MariaDB), MicroPython
 - 📫 Reach me at: fredasband@gmail.com
 - 🔗 GitHub: [github.com/FrederikVA](https://github.com/FrederikVA)
-
 ---
 
 ## 🛠 My Personal Projects
@@ -39,7 +38,7 @@ Playing cards. My own design, but inspired by the game.
 Reordering and playing hand. 'Scoring cards' elevate as a visual indicator.
 ---
 ![Playing Hand](./screenshots/PlayingHand.gif)  
-
+---
 
 After creating the calculator, I saw the potential of a forum. However, I meet timecontrains and only finished two mini-games before concluding the project. 
 #### 🎮 Minigame Snippets:
